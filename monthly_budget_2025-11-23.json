@@ -1,0 +1,61 @@
+{
+  "title": "Monthly Budget",
+  "income": [
+    {
+      "id": 1,
+      "category": "Paycheck 1",
+      "expected": 2000,
+      "actual": 2000
+    },
+    {
+      "id": 2,
+      "category": "Paycheck 2",
+      "expected": 2000,
+      "actual": 0
+    }
+  ],
+  "expenses": [
+    {
+      "id": 101,
+      "category": "Rent / Mortgage",
+      "type": "Need",
+      "expected": 1200,
+      "actual": 1200
+    },
+    {
+      "id": 102,
+      "category": "Groceries",
+      "type": "Need",
+      "expected": 400,
+      "actual": 150
+    },
+    {
+      "id": 103,
+      "category": "Utilities",
+      "type": "Need",
+      "expected": 150,
+      "actual": 0
+    },
+    {
+      "id": 104,
+      "category": "Transport",
+      "type": "Need",
+      "expected": 100,
+      "actual": 45
+    },
+    {
+      "id": 105,
+      "category": "Dining Out",
+      "type": "Want",
+      "expected": 150,
+      "actual": 60
+    },
+    {
+      "id": 106,
+      "category": "Savings",
+      "type": "Saving",
+      "expected": 300,
+      "actual": 300
+    }
+  ]
+}
